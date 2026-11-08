@@ -131,10 +131,10 @@ Projeto desenvolvido por estudantes da Universidade Federal do Maranhão (UFMA).
 | Integrante | Instituição |
 |---|---|
 | Ana Patrícia Braga Garros | UFMA |
-| Ana Poliana Mesquita | UFMA |
-| Gustavo Antonio | UFMA |
-| Leonardo dos Santos | UFMA |
-| Welyab da Silva | UFMA |
+| Ana Julia Morais Ribeiro Alencar | UFMA |
+| Samara Santos Viegas | UFMA |
+| Pedro Luís dos Santos Souza | UFMA |
+| João Marcelo Privado Simas | UFMA |
 
 **Professor orientador:** Luiz Henrique Neves Rodrigues.
 
